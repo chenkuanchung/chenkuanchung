@@ -29,25 +29,32 @@ I'm a passionate learner and developer currently deepening my expertise in Artif
     <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery"/> </a>
 </p>
 
-**DevOps Infrastructure:**
-<p>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
-    <a href="https://about.gitlab.com/" target="_blank"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/> </a>
-</p>
-
 **Data Engineering:**
 <p>
     <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black" alt="Hadoop"/> </a>
     <a href="https://spark.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/> </a>
     <a href="https://nifi.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_NiFi-7289DA?style=for-the-badge&logo=apache-nifi&logoColor=white" alt="NiFi"/> </a>
     <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/> </a>
+    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"> <img src="https://img.shields.io/badge/Beautiful_Soup-000000?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"/> </a>
+    <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/> </a>
 </p>
 
-**Other Tools:**
+**AI Development & Platforms:**
 <p>
     <a href="https://huggingface.co/" target="_blank"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="HuggingFace"/> </a>
+    <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank"> <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure OpenAI"/> </a>
+    <a href="https://github.com/microsoft/autogen" target="_blank"> <img src="https://img.shields.io/badge/AutoGen-412991?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/> </a>
+    <a href="https://github.com/ultralytics/ultralytics" target="_blank"> <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO"/> </a>
+</p>
+
+**DevOps & Visualization:**
+<p>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
+    <a href="https://about.gitlab.com/" target="_blank"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/> </a>
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> </a>
 </p>
 
 ---

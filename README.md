@@ -2,7 +2,7 @@
 
 I'm a passionate learner and developer currently deepening my expertise in Artificial Intelligence.
 
-- 🌱 I’m currently enrolled in a [professional AI program](https://www.italent.org.tw/AIStar/Home/Info) hosted by National Yang Ming Chiao Tung University (NYCU).
+- 🌱 I’m currently enrolled in the [AI Rising Star Program](https://www.italent.org.tw/AIStar/Home/Info) hosted by National Yang Ming Chiao Tung University (NYCU).
 - 💡 I'm interested in building practical AI solutions and exploring new technologies.
 - 📫 How to reach me: [chenkuanchung810905@gmail.com]
 - 😄 Fun Facts: I love to travel and enjoy having the perfect cup of pour-over coffee.
